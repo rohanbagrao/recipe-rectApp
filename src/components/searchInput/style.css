@@ -1,0 +1,35 @@
+.search {
+    margin-top: 1rem;
+    padding-bottom: 0;
+    margin-bottom: 5rem;
+  }
+  
+  .search-form {
+    width: 85vw;
+    margin: 0 auto;
+    max-width: 30rem;
+    background:white;
+    padding: 2px;
+    text-transform: capitalize;
+    border-radius: .25rem;
+   
+  }
+  
+  .form-control label {
+    display: block;
+    margin-bottom: 1.25rem;
+    font-weight: 2px;
+    letter-spacing: 1px;
+    color: rgb(11, 10, 10);
+    font-size: large;
+    text-align: left;
+  }
+  .form-control input {
+    width: 100%;
+    border-color: rgb(203, 199, 199);
+    background: white;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    
+  }
